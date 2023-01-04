@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Hasura で二億稼ぐ。
+TypeScript でフルスタック開発する会社の代表取締役
